@@ -1,0 +1,10 @@
+RepeatUnitSMILES,td_value
+N#Cc1ccc(Oc2cccc(Oc3cncc(Oc4cccc(Oc5ccc(C#N)c(C#N)c5)c4)n3)c2)cc1C#N,471.5
+N#Cc1ccc(Oc2cccc(Oc3ccc(C(=O)c4ccc(Oc5cccc(Oc6ccc(C#N)c(C#N)c6)c5)cc4)cc3)c2)cc1C#N,528
+N#Cc1ccc(Oc2ccc(Oc3cccc(Oc4ccc(-c5ccc(Oc6cccc(Oc7ccc(-c8ccc(Oc9ccc(C#N)c(C#N)c9)cc8)cc7)c6C#N)cc5)cc4)c3C#N)cc2)cc1C#N,492
+N#Cc1ccc(Oc2ccc([Si](c3ccccc3)(c3ccccc3)c3ccc(Oc4ccc(C#N)c(C#N)c4)cc3)cc2)cc1C#N,524
+N#Cc1ccc(Oc2cc(CO)ccc2COCc2cc(CO)cc(Cc3cccc(CO)c3O)c2Oc2ccc(C#N)c(C#N)c2)cc1C#N,380
+N#Cc1cc(Oc2ccc(NCC(O)COc3cccc(OCC4CO4)c3)cc2)ccc1C1=NC(COc2cccc(OCC3CO3)c2)CO1,506
+COCc1cn(CCc2ccc3c(c2)CN(c2ccc(Cc4ccc(N5COc6ccc(CCn7cc(COc8ccc(C(C)(C)c9ccc(C)cc9)cc8)nn7)cc6C5)cc4)cc2)CO3)nn1,323
+COc1ccc(Oc2cccc(Oc3ccc(C4(c5ccc(Oc6cccc(C)c6C#N)cc5)OC(=O)c5ccccc54)cc3)c2C#N)cc1,757.25
+COc1ccc(Oc2cccc(Oc3ccc(C(c4ccc(Oc5cccc(C)c5C#N)cc4)c4ccccc4C(=O)O)cc3)c2C#N)cc1,670.5

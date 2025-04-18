@@ -1,0 +1,11 @@
+RepeatUnitSMILES,PropertyValue,TestFreq,TestFreqUnit,TestTemp,TestTempUnit
+*Cc1ccc(Cc2ccc(CSC(=O)c3cccc(C(=O)S*)c3)cc2)cc1,1,2.230448921,kHz,20,C
+*NC(CCC(=O)OCc1ccc(N)cc1)C(*)=O,1,0,kHz,25,C
+*OC1C(CO)OC(*)C(N)C1O,1,-1.37675071,kHz,80,C
+*CC(*)c1ccccc1,1.139,0,kHz,40,C
+*Oc1ccc(C(C)(C)c2ccc(OC(*)=O)cc2)cc1,1.19,0,kHz,25,C
+*CC(*)(C)C(=O)OC,1.2,-0.301029996,kHz,27,C
+*c1ccc2c(c1)C(=O)N(c1ccc(C(C)(C)c3ccc(N4C(=O)c5ccc(C(*)(C)C)cc5C4=O)cc3)cc1)C2=O,1.5,3.477121255,kHz,22,C
+*N=P(*)(Oc1cccc(C)c1)Oc1cccc(C)c1,1.5,2.698983033,kHz,25,C
+*CC(*)Cl,1.548,6.985426474,kHz,25,C
+*CCCCCC(=O)N*,1.65,7,kHz,25,C

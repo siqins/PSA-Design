@@ -1,0 +1,11 @@
+RepeatUnitSMILES,PropertyValue,TestFreq,TestFreqUnit,TestTemp,TestTempUnit
+*CC(*)CC(C)C,-5.301029996,0,KHz,200,C
+*Oc4ccc(C(C)(CCC(=O)OCCS(C)(=O)=O)c3ccc(Oc2ccc(C(=O)c1ccc(*)cc1)cc2)cc3)cc4,-1.899629455,-2,kHz,-50,C
+*CC(CO*)(CS(C)(=O)=O)CS(C)(=O)=O,-1.899629455,-2,kHz,100,C
+*CC(*)C(=O)OCCS(C)(=O)=O,-1.899629455,-2,kHz,-150,C
+*c6ccc(C(c5ccc(n4c(=O)c3ccc(C(c2ccc1c(=O)n(*)c(=O)c1c2)(C(F)(F)F)C(F)(F)F)cc3c4=O)cc5)(C(F)(F)F)C(F)(F)F)cc6,-2.036212173,2,kHz,200,C
+*N=P(*)(OCC(F)(F)F)OCC(F)(F)F,-2.032735952,0,kHz,-173,C
+*C(C)COCC(C)COCC(C)n3c(=O)c2cc1c(=O)n(*)c(=O)c1cc2c3=O,-2.032452024,1,kHz,25,C
+*Nc6ccc(Oc5ccc(C(=O)c4ccc(Oc3ccc(NC(=O)c1ccc(C(*)=O)c2ccccc12)cc3)cc4)cc5)cc6,-1.747146969,3,kHz,25,C
+*NC(=O)Nc1ccc(C)c(NC(=O)NNCC(C)N*)c1,-1.747146969,-1.22184875,kHz,50,C
+*c6ccc(S(=O)(=O)c5ccc(n4c(=O)c3ccc(Oc2ccc1c(=O)n(*)c(=O)c1c2)cc3c4=O)cc5)cc6,-1.747146969,3,kHz,0,C

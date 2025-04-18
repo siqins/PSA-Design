@@ -1,0 +1,2 @@
+Correlation analysis Select the following descriptors for model training (note: the following is not based on test data)：
+'SMR_VSA6', 'RotRatio', 'NssCH2', 'ATSC3Z', 'AATS3dv', 'BIC2', 'SLogP', 'fMF', 'nS', 'BalabanJ', 'C3SP2', 'AATSC1Z', 'nHBDon', 'NaaCH', 'MATS1Z', 'TMPC10', 'Xc-5d'
